@@ -1,4 +1,4 @@
 spring:
   ai:
     openai:
-      api-key: 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
+      api-key: ${OPENAI_API_KEY}
